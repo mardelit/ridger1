@@ -1,0 +1,5 @@
+D:\Nueva carpeta (2)\ridger1\proyecto\bin\Debug\proyecto.exe
+D:\Nueva carpeta (2)\ridger1\proyecto\bin\Debug\proyecto.pdb
+D:\Nueva carpeta (2)\ridger1\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta (2)\ridger1\proyecto\obj\Debug\proyecto.exe
+D:\Nueva carpeta (2)\ridger1\proyecto\obj\Debug\proyecto.pdb
